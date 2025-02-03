@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python Development and Automation
 - 🌱 I’m currently learning Back-End
 - 💞️ I’m looking to collaborate on Projects with interesting ideas
-- 📫 How to reach me: Alofte.dev@gmail.com or my Linkedin (Alofte.py
+- 📫 How to reach me: Alofte.dev@gmail.com or my Linkedin (Alofte.py)
 
 
 
